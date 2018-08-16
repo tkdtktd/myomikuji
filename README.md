@@ -1,0 +1,2 @@
+# myomikuji
+My omikuji
